@@ -22,7 +22,7 @@ The Author didn't include any.<br/>
 
 But For a beginer who is looking to prepare for interviews, he should have an understanding of this topics. So I am gonna collect what is considered as answer by general norms. They might have different in one's view, but I am collecting what the society deems it to be the answers today. These questions might have different answers in near future, But who am I to judge? There is no right or wrong answers, they are all just a summary or gist of the topic, or to be specific, my understanding of these topics. Feel free to make correction so that I can learn the correct answers.
 
-Feel free to open a [Discussion](https://github.com/mahabubarafat/Back-End-Developer-Interview-Questions/discussions).
+Feel free to open a [Discussion](https://github.com/MahabubArafat/backend-dev-questions-answers/discussions).
 
 ## <a name='toc'>Table of Contents</a>
 
