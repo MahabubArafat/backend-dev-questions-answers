@@ -18,7 +18,7 @@ HTTP is a stateless protocol, which means that each request and response is trea
 | Efficiency          | Less efficient                                             | More efficient                |
 | Scalability         | Less scalable                                              | More scalable                 |
 | Example             | File Transfer, Streaming Media                             | Web Browsing, Email, Search   |
-| Port                | No definite Port                                           | Uses port 80                  |
+| Port                | No definite Port                                           | Uses port 80 , 443 for HTTPS  |
 | Number of Way       | Uses Three way communication                               | HTTP uses single way protocol |
 | OSI Model           | Layer 4: Transport Layer,works with IP (internet Protocol) | Layer 7: Application Layer    |
 

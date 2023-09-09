@@ -975,7 +975,8 @@ Which principles would you apply to define the size of a cache?
 
 #### TCP and HTTP
 
-What's the difference between TCP and HTTP?
+What's the difference between TCP and HTTP? </br>
+[Answer](./answers/General%20Questions/tcpvshttp.md)
 
 #### Client-Side vs Server-Side
 
