@@ -8,7 +8,7 @@ TCP (Transmission Control Protocol) is a network protocol that ensures reliable 
 
 ## How TCP works in general
 
-TCP is a special way that computers use to talk to each other over the internet. It's like having a conversation. When you send a message (data) to someone far away, TCP makes sure the message gets there correctly and in the right order. It's like sending a letter with a tracking number to make sure it arrives safely.It ensures reliable and ordered data transmission between computers.
+TCP is a special way that computers use to talk to each other over the internet. It's like having a conversation. When you send a message (data) to someone far away, TCP makes sure the message gets there correctly and in the right order. It's like sending a letter with a tracking number to make sure it arrives safely.It ensures `reliable` and `ordered data` transmission between computers.
 </br>
 TCP does this by setting up a "connection" between your computer and the other computer. It's kind of like making a phone call. First, you have to dial the number and wait for the other person to pick up. Then, you can talk.
 
@@ -19,7 +19,7 @@ TCP establishes a connection between two computers, like a virtual handshake, be
     - acknowledge received data, and
     - manage flow control.
 
-Once the connection is established, data is divided into small packets and sent over the network. TCP ensures that these packets arrive at the destination in the correct order and without errors. If any data is lost or corrupted during transmission, TCP requests retransmission.
+Once the connection is established, `data is divided into small packets` and sent over the network. TCP ensures that these packets arrive at the destination in the correct order and without errors. If any data is lost or corrupted during transmission, TCP requests retransmission.
 
 ## Understand what is OverHead
 
