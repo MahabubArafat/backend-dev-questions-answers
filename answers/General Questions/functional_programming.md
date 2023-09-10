@@ -1,17 +1,18 @@
 # What Is Functional Programming?
 
-- Building programs by applying and composing functions.
+Simple Answer: Building programs by applying and composing functions.
+
 - Functional programming harnesses language support by using functions as variables, arguments, and return values—creating elegant and clean code in the process.
 - FP also uses immutable data and avoids concepts like shared states. This is in contrast to object-oriented programming (OOP), which uses mutable data and shared states.
 - Functional programming languages focus on declarations and expressions rather than the execution of statements.
 - Functions are also treated like first-class citizens—meaning they can pass as arguments, return from other functions, and attach to names.
 - FP focuses on the results, not the process, while iterations like loop statements and conditional statements (e.g., If-Else) aren’t supported.
 - Languages pure functional programming langugae:
-- Haskel
-- Erlang
-- Common Lisp
-- Scala
-- Now all programming lang have the feature of functional programming
+  - Haskel
+  - Erlang
+  - Common Lisp
+  - Scala
+  - Now all programming lang have the feature of functional programming
 
 ### Pure Functional Programming
 
@@ -44,7 +45,7 @@ function updateMyAddress(newAddress) {
 }
 ```
 
-- updateMyAddess() is an impure function since it contains code (myAddress). This code mutates an external state, which gives updateMyAddress() some side effects.
+- updateMyAddess() is an impure function since it contains code (myAddress). `This code mutates an external state`, which gives updateMyAddress() some side effects.
 
 # Why does functional programming matter?
 
@@ -66,6 +67,7 @@ function updateMyAddress(newAddress) {
 - OOP --> imperative programming model, meaning functions are invariably coded in every step needed to solve a problem. You code each operation with the code itself specifying how to solve the problem. This model requires the programmer to know which functions are necessary to solve a problem instead of relying on models that can solve the problems.
 
 - FP --> declarative programming model, meaning it relies on the underlying concepts of a programming language to execute the necessary steps to reach the predetermined outcome.
+  </br>
 - `Imperative programs` focus on the step-by-step process of solving a problem, whereas `Declarative` programs focus on the result of solving a problem.
 
 - Another critical difference is mutability: OOP uses mutable data while FP uses immutable data. You can alter (or mutate) mutable objects after creation, whereas you can’t for immutable objects. In FP, you’ll need to make a copy of the object and use that copy to write the rest of your code.

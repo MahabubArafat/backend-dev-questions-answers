@@ -19,7 +19,7 @@ TCP establishes a connection between two computers, like a virtual handshake, be
     - acknowledge received data, and
     - manage flow control.
 
-Once the connection is established, `data is divided into small packets` and sent over the network. TCP ensures that these packets arrive at the destination in the correct order and without errors. If any data is lost or corrupted during transmission, TCP requests retransmission.
+Once the connection is established, `data is divided into small packets` and sent over the network. TCP ensures that these packets arrive at the destination in the `correct order and without errors`. If any `data is lost` or corrupted during transmission, TCP `requests retransmission.`
 
 ## Understand what is OverHead
 
