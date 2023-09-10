@@ -1,6 +1,6 @@
 # How do companies like Microsoft, Google, Opera and Mozilla profit from their browsers?
 
-<mark>In One sentence, Browsers Earn from search engines and ADS platforms. And Some by iffering premium feature, donations,licensing, extension market place cut</mark>
+<mark>In One sentence, Browsers Earn from search engines and Ads platforms. And Some by offering premium feature, donations,licensing, extension market place cut</mark>
 
 Individual Companies:
 
