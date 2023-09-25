@@ -444,7 +444,7 @@ Write two functions, one referentially transparent and the other one referential
 
 #### Stack and Heap
 
-What is a stack and what is a heap? What's a stack overflow?
+What is a stack and what is a heap? What's a stack overflow? [Answer](https://medium.com/fhinkel/confused-about-stack-and-heap-2cf3e6adb771)
 
 #### Pattern Matching
 
