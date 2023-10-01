@@ -994,7 +994,8 @@ Why do people resist change?
 
 #### Threading ELI5
 
-Explain threads to your grandparents
+Explain threads to your grandparents </br>
+[Answer](./answers/Open%20Questions/threadsExplained.md)
 
 #### Innovation and Predictability
 
