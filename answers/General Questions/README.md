@@ -4,3 +4,4 @@
 2. [How do companies like Microsoft, Google, Opera and Mozilla profit from their browsers?](./howBrowserMakeMoney.md)
 3. [Why does opening a TCP socket have a large overhead?](./tcpLargeOverHead.md)
 4. [What's the difference between TCP and HTTP?](./tcpvshttp.md)
+
